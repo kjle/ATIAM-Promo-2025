@@ -1,0 +1,19 @@
+[INFOS GENERALES]
+Version = "2.9"
+Opérateur = ""
+Date = "22/11/2024"
+Nb voies = "2"
+Commentaires = "Kang Jeanneau"
+
+[CHIRP]
+Freq min (Hz) = 20,000000    
+Freq max (Hz) = 6000,000000    
+Freq Ech (Hz) = 25600,000000    
+Durée (s) = 5,000000    
+Type de Chirp = "Log"
+Niveau (Vpk) = 0,200000    
+Nombre de moyennes = 5    
+
+[Paramètres de calibration]
+Polynome Amplitude = "0,811849	0,000443	-1,739179E-6	3,463388E-9	-4,117714E-12	3,172035E-15	-1,646309E-18	5,853920E-22	-1,425927E-25	2,335572E-29	-2,455804E-33	1,495945E-37	-4,010238E-42\0D\0A"
+Polynome Phase = "0,085002	-0,000578	1,740859E-6	-2,875243E-9	2,960803E-12	-1,993771E-15	8,986408E-19	-2,735100E-22	5,586633E-26	-7,459507E-30	6,138334E-34	-2,743085E-38	4,790529E-43\0D\0A"

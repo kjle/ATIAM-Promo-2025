@@ -1,0 +1,17 @@
+[Paramètres géométriques]
+Diamètre de la cavité arrière a1 (mm) = 18.000000
+Diamètre de la cavité avant a2 (mm) = 16.000000
+Longueur de la cavité fermée l1 (mm) = 21.400000
+Demi longueur de la cavité fermée l12 (mm) = 9.500000
+Longueur de la cavité ouverte l2 (mm) = 13.000000
+Demi longueur de la cavité ouverte l22 (mm) = 6.500000
+Pertes = 0.0025
+
+[Paramètres acquisition]
+Vpk max micros (V) = 2.500000
+Fmax = 6000
+IEPE = True
+
+[Général]
+TypeMesure = "CapteurZ"
+RéfMatériel = "Capteur_16mm_Std_IEPE"
