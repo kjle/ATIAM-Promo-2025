@@ -1,0 +1,7 @@
+[Général]
+Version = "2.9"
+Fichier paramètres usine = "ParametresUsineCTTM_STD.txt"
+Nom du projet = "impedance mesure"
+Date = "22/11/2024"
+Auteur = "Kang JEANNEAU"
+Commentaire = ""

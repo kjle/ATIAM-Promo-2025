@@ -1,0 +1,28 @@
+[INFOS GENERALES]
+Version = "2.9"
+Référence Capteur = "Capteur_16mm_Std_IEPE"
+Nom du Projet = "impedance mesure"
+Nom Mesure = "Flute"
+Date = "22/11/2024"
+Opérateur = ""
+Nb voies = "2"
+Commentaires = ""
+Diamètre de l'instrument (mm) = 18,700000
+Distance (impédance ramenée) (mm) = 0,000000
+Longueur de la pièce d'adaptation (mm) = 0,000000
+Température = 19,470000
+
+[SIGNAL]
+Type de signal d'excitation = "Chirp"
+
+[CHIRP]
+Freq min (Hz) = 100,000000
+Freq max (Hz) = 4000,000000
+Freq Ech (Hz) = 25600
+Durée (s) = 5,000000
+Type de Chirp = "Log"
+Niveau signal  (Vpk) = 0,200000
+Nombre de moyennes = 5
+
+[EXTERNE]
+Chemin du signal externe = ""

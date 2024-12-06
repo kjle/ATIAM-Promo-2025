@@ -1,0 +1,17 @@
+[Paramètres géométriques]
+Diamètre de la cavité arrière a1 (mm) = 36.000000
+Diamètre de la cavité avant a2 (mm) = 32.000000
+Longueur de la cavité fermée l1 (mm) = 42.800000
+Demi longueur de la cavité fermée l12 (mm) = 19.00000
+Longueur de la cavité ouverte l2 (mm) = 26.000000
+Demi longueur de la cavité ouverte l22 (mm) = 12.600000
+Pertes = 0.0025
+
+[Paramètres acquisition]
+Vpk max micros (V) = 2.500000
+Fmax = 4500
+IEPE = True
+
+[Général]
+TypeMesure = "CapteurZ"
+RéfMatériel = "Capteur_CTTM_BF"
