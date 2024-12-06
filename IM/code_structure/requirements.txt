@@ -1,0 +1,6 @@
+# This is where you list all the additional packages you used for your project
+# For instance, ypu might want to add a nice little progress bar with tqdm
+tqdm
+
+# Or you might want to perform operations on tensors using Einstein's notation
+einops

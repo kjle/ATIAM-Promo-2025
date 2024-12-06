@@ -1,0 +1,12 @@
+# This is a macro, meaning that you can use this value to configure multiple functions
+INPUT_DIM = 64
+HIDDEN_DIM = 128
+
+# Example of class configuration within the configuration file
+# Check the models/model.py to see the class definition in python
+networks.SimpleNetwork:
+    input_dim = %INPUT_DIM
+    hidden_dim = %HIDDEN_DIM
+    output_dim = 10
+
+
