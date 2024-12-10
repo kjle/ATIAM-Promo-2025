@@ -4,3 +4,10 @@ IM/atiam-fpa/.DS_Store
 IM/ML/__MACOSX
 IM/ML/*.pt
 IM/ML/data
+TSM/.DS_Store
+TSM/TP-multipitch/.DS_Store
+TSM/TP-multipitch/__MACOSX
+TSM/TP-multipitch/__pycache__
+TSM/TP-multipitch/_audio
+TSM/TP-multipitch/_images
+TSM/TP-multipitch/*.zip
